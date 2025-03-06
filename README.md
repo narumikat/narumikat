@@ -1,6 +1,6 @@
 <h2 align="center">Narumi Katayama</h2>
 <p align="center">
-  I’m a Web Design, Graphic Design & Full Stack Developer 💻 living in Yokohama, Japan 🇯🇵
+  I’m a Full Stack Developer 💻 living in Yokohama, Japan 🇯🇵
 </p>
 
 <div align="center" style="border: 1px solid #ccc; padding: 20px; display: inline-block;">
